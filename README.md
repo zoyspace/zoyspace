@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zoyspace
-- 👀 I’m interested in WebGL
+- 👀 I’m interested in Svelte
 - 🌱 I’m currently learning Flutter and Svelte
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is https://twitter.com/zoyspace
