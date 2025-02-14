@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zoyspace
 - 👀 I’m interested in Svelte
-- 🌱 I’m currently learning Flutter and Svelte
+- 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is https://twitter.com/zoyspace
 - :candy: How to support me is https://www.buymeacoffee.com/zoyspace
